@@ -1,5 +1,5 @@
 {
-  "name": "optime/simple-sso",
+  "name": "herodez/simple-sso",
   "description": "Library to implement SSO authentication",
   "keywords": ["sso"],
   "type": "library",
